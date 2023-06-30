@@ -10,9 +10,9 @@
   So, join the ranks of those who code with both passion and precision. Together, we shall leave a lasting legacy in the ever-evolving landscape of technology! 🚀🌌
 </p>
 <p>
-🔭 I’m currently working on [DrumCello](https://drumcello.netlify.app/) - a mobile app for music streaming</p>
+🔭 I’m currently working on <a href="https://drumcello.netlify.app" target="_blank">DrumCello</a> - a mobile app for music streaming</p>
 <p>
-🌱 I’m currently learning **AI and Data Science**
+🌱 Learning <b>AI and Data Science</b> on my free time
 </p>
 
 <h3 align="left">Connect with me:</h3>
