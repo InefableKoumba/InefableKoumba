@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Inefable</h1>
-<h3 align="center">Welcome to the sacred realm of coding, where we live by the commandment: 'Thou shalt code with reverence and meticulousness.' 💡💻 In this vast digital realm, where coding warriors forge their digital swords, I stand tall, armed not just with the mighty Flutter, React, React Native, and TypeScript, but with a spirit of devotion to my craft. Having crafted full-stack apps for both web and mobile in the past, I know that code is more than just lines on a screen; it's an expression of creativity and dedication. Every function, every class, and every algorithm carries a piece of my soul, forever etched into the digital tapestry. Bugs may challenge me, but my devotion prevails! Together, I shape the future of technology, leaving a legacy that inspires. So, join the ranks of those who code with both passion and precision. Together, we shall leave a lasting legacy in the ever-evolving landscape of technology!" 🚀🌌</h3>
+<p>Welcome to the sacred realm of coding, where we live by the commandment: 'Thou shalt code with reverence and meticulousness.' 💡💻 </p>
+<p>
+  In this vast digital realm, where coding warriors forge their digital swords, I stand tall, armed not just with the mighty Flutter, React, React Native, and TypeScript, but with a spirit of devotion to my craft.
+</p>
+<p>
+   Having crafted full-stack apps for both web and mobile in the past, I know that code is more than just lines on a screen; it's an expression of creativity and dedication. Every function, every class, and every algorithm carries a piece of my soul, forever etched into the digital tapestry. Bugs may challenge me, but my devotion prevails! Together, I shape the future of technology, leaving a legacy that inspires.
+</p>
+<p>
+  So, join the ranks of those who code with both passion and precision. Together, we shall leave a lasting legacy in the ever-evolving landscape of technology!" 🚀🌌
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inefablekoumba&label=Profile%20views&color=0e75b6&style=flat" alt="inefablekoumba" /> </p>
 
