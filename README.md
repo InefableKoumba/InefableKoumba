@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Inefable
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Koltlin, and Artificial Intelligence
-- 💞️ I’m looking to collaborate with everyone!
+- 💞️ I’m looking forward to collaborating with everyone!
 - 📫 You can reach me out on twitter @Inefable027
 
 <!---
