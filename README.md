@@ -1,20 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inefable</h1>
-<p>Welcome to the sacred realm of coding, where we live by the commandment: 'Thou shalt code with reverence and meticulousness.' 💡💻 </p>
+<p>I write code for a living :)</p>
 <p>
-  In this vast digital realm, where coding warriors forge their digital swords, I stand tall, armed not just with a spirit of devotion to my craft.
-</p>
-<p>
-   Having crafted full-stack apps for both web and mobile in the past, I know that code is more than just lines on a screen; it's an expression of creativity and dedication. Every function, every class, and every algorithm carries a piece of my soul, forever etched into the digital tapestry.
-</p>
-<p>
-  So, join the ranks of those who code with both passion and precision. Together, we shall leave a lasting legacy in the ever-evolving landscape of technology! 🚀🌌
-</p>
-<p>
-🔭 I’m currently working on <a href="https://drumcello.netlify.app" target="_blank">DrumCello</a> - a mobile app for music streaming</p>
-<p>
-🌱 Learning <b>AI and Data Science</b> on my free time
-</p>
-
+I’m currently working on <a href="https://drumcello.com" target="_blank">DrumCello</a> and <a href="https://koyeba.netlify.app">Koyeba</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/inefable027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="inefable027" height="30" width="40" /></a>
